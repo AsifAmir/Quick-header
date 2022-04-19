@@ -1,0 +1,53 @@
+Overviews
+Landings
+Pages
+Apps
+Docs
+
+<a href="https://...." target="_blank">Youtube</a>
+external link open in new tab for target blank.
+
+<a href="pages/index.html">Home</a>
+internal link open in current tab. default target = self
+
+
+website-
+	single page/landing page
+
+	multipage
+		home
+		contact
+		address
+
+font-size: 166px for paragraph
+font-weight: 400 regular
+
+color combination- 2/3
+	sky-blue: #2596be
+	navy-blue: #0f2656
+
+font - cdn, download
+font family - 
+	sans sarif
+	sarif
+	monospace
+	cursive
+	fantasy
+
+serial-
+font-family
+font-size
+font-weight
+color
+
+angcore tag: default display - inline
+
+pseudo selector:
+	first-child{}
+	last-child{}
+	nth-child(number){}
+	nth-child(even){}
+	nth-child(odd){}
+	hover
+	active
+	after before
